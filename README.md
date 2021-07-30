@@ -14,5 +14,6 @@ Sau khi đã có file txt thô thì việc làm sạch rất dễ dàng, chỉ c
 
 File `clear.cpp` là code mình dùng để `clear` và cho nó vào `textclear.txt` - file này mình code mất khoảng 10p.
 File này là file thứ 2 mình code, file thứ nhất có thêm tính toán theo các khối thi truyền thống nữa, nhưng vì 1 sự ngu người nên đã làm mất.
-
+# Hết
+# ------------------------------------------------------------
 
