@@ -3,7 +3,7 @@
 
 # Bước 1: Lấy dữ liệu từ website
 Có rất nhiều website cung cấp dữ liệu về điểm thi 2021, nhưng ở đây mình chọn website của báo Dân Trí : `https://dantri.com.vn/giao-duc-huong-nghiep/tuyen-sinh/tra-cuu-diem-thi.htm` bởi vì web này cung cấp dữ liệu dạng `json` có thể lấy dễ dàng qua tab `Network` của `DevTools`
-
+  ![screen](screen.png)
 
 File `clone.cpp` giúp mình lấy dữ liệu về bằng cách sử dụng `curl` và cho dữ liệu thô vào file `textclone.txt`
 
